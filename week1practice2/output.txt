@@ -1,0 +1,6 @@
+before deleting dhoni info: 
+18 India
+kholi info after copy: 
+18 India
+after deleting dhoni info: 
+17535096 À
